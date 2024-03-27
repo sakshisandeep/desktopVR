@@ -61,15 +61,15 @@ body {
   /*  The first picture will be larger.  */
   }
   .img-2 {
-    background-image: url("images/ayodhya.jpg");
+    background-image: url("ayodhya.jpg");
     min-height: 600px;
   }
   .img-3 {
-    background-image: url("images/somnath.jpg");
+    background-image: url("somnath.jpg");
     min-height: 600px;
   }
   .img-4 {
-    background-image: url("images/badrinath.jpg");
+    background-image: url("badrinath.jpg");
     min-height: 600px;
   }
   .img-5 {
